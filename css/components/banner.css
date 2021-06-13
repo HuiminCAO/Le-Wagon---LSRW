@@ -1,0 +1,140 @@
+.banner {
+    background-image: linear-gradient(-255deg, rgba(0,0,0,0.9), rgba(0,0,0,0.4)50%) , url(../../images/background-banner.jpg);   
+    padding: 150px 0px;
+	background-size: cover;     
+  /* 3. Center the image */
+	background-position: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+.banner-fr {
+    background-image: linear-gradient(-255deg, rgba(0,0,0,0.9), rgba(0,0,0,0.4)50%) , url(../../images/french.jpg);   
+    padding: 150px 0px;
+  background-size: cover;     
+  /* 3. Center the image */
+  background-position: center;
+}
+
+.banner-fr h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner-fr h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+
+
+.banner-it {
+    background-image: linear-gradient(-255deg, rgba(0,0,0,0.9), rgba(0,0,0,0.4)50%) , url(../../images/Italy.jpg);   
+    padding: 150px 0px;
+  background-size: cover;     
+  /* 3. Center the image */
+  background-position: center;
+}
+
+.banner-it h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner-it h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+.banner-gm {
+    background-image: linear-gradient(-255deg, rgba(0,0,0,0.9), rgba(0,0,0,0.4)50%) , url(../../images/Germany.jpg);   
+    padding: 150px 0px;
+  background-size: cover;     
+  /* 3. Center the image */
+  background-position: center;
+}
+
+.banner-gm h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner-gm h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+.banner-cn {
+    background-image: linear-gradient(-255deg, rgba(0,0,0,0.9), rgba(0,0,0,0.4)50%) , url(../../images/China.jpg);   
+    padding: 150px 0px;
+  background-size: cover;     
+  /* 3. Center the image */
+  background-position: center;
+}
+
+.banner-cn h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner-cn h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+.banner-k {
+    background-image: linear-gradient(-255deg, rgba(0,0,0,0.9), rgba(0,0,0,0.4)50%) , url(../../images/Korea.jpg);   
+    padding: 150px 0px;
+  background-size: cover;     
+  /* 3. Center the image */
+  background-position: center;
+}
+
+.banner-k h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner-k h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+.banner-jp {
+    background-image: linear-gradient(-255deg, rgba(0,0,0,0.9), rgba(0,0,0,0.4)50%) , url(../../images/Japan.jpg);   
+    padding: 150px 0px;
+  background-size: cover;     
+  /* 3. Center the image */
+  background-position: center;
+}
+
+.banner-jp h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner-jp h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}

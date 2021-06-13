@@ -1,0 +1,108 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  box-shadow:0px 10px 20px;
+  border-radius: 6px;
+  margin: 10px 0px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.card img {
+  width: 150px;
+  border-radius: 6px;
+}
+.card h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+  font-size:24px;
+}
+
+
+.card-inside {
+	background-color: white;
+    padding: 15px;
+    box-shadow:1px 1px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 0 1%;
+    float:center;
+    flex-basis: 25%;
+	margin: 10px;
+}
+
+.card-inside img {
+	width:100%; 
+	margin:0 auto; 
+	overflow:auto; 
+	_display:inline-block;
+    /*
+    width: 150px;
+    border-radius: 3px;
+    */
+}
+.card-inside h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+  font-size:24px;
+}
+
+
+
+
+
+.avatar-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  box-shadow:0px 10px 20px;
+  border-radius: 6px;
+  margin: 10px 0px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.avatar-card h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+  font-size:24px;
+}
+
+
+
+
+.avatar-circle {
+	background-color: white;
+    padding: 15px;
+    box-shadow:1px 1px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 0 auto;
+    float:center;
+    flex-basis: 25%;
+	margin: 10px;
+}
+
+
+.avatar-circle img {
+	text-align: center;
+
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+    /*
+    width: 150px;
+    border-radius: 3px;
+    */
+}
+
+
+}
+.avatar-circle h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+  font-size:24px;
+
+}
